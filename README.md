@@ -4,6 +4,8 @@
 
 ## Branded Raspberry Pi Case Lid
 
+![](screenshot_fusion1.PNG)
+
 This lid (IoT-Watchdog_Voroni-Deckel.stl, white and 
 Iot-Watchdog_Schriftzug.stl, blue) is intended to be mated with [Carter Multz](https://www.prusaprinters.org/social/6839-carter-multz/prints)' base cases with hexagonal holes, which are used for the IoT-Watchdog case.
 
